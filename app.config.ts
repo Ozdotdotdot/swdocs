@@ -3,7 +3,8 @@ export default defineAppConfig({
     title: 'smash.watch',
     description: 'Documentation for Smash Watch',
     header: {
-      title: 'smash.watch'
+      title: 'smash.watch',
+      showColorModeSwitch: true
     }
   },
   colorMode: {
