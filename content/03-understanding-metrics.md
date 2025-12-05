@@ -113,5 +113,3 @@ Metrics are only as good as the underlying data:
 - **Filter your view:** [View Types](04-view-types.md)
 
 ---
-
-[← Back to Understanding the Chart](02-understanding-the-chart.md) | [Next: View Types →](04-view-types.md)

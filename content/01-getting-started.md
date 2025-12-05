@@ -51,5 +51,3 @@ After applying filters, you'll get:
 - **Find specific insights:** [Tips & Best Practices](08-tips-and-best-practices.md)
 
 ---
-
-[← Back to Index](README.md) | [Next: Understanding the Chart →](02-understanding-the-chart.md)

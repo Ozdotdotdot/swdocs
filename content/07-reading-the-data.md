@@ -206,5 +206,3 @@ To compare different filters:
 - **Solve common problems:** [Troubleshooting](09-troubleshooting.md)
 
 ---
-
-[← Back to Advanced Filtering](06-advanced-filtering.md) | [Next: Tips & Best Practices →](08-tips-and-best-practices.md)

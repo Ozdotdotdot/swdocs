@@ -378,5 +378,3 @@ Only tournaments with:
 5. **Limited historical data** - Typically 3-6 months max
 
 ---
-
-[← Back to Tips & Best Practices](08-tips-and-best-practices.md) | [Back to Index](README.md)

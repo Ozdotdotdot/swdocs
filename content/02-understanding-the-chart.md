@@ -98,5 +98,3 @@ There's no single "best" position - it depends on context:
 - **Filter your data:** [Primary Filters](05-primary-filters.md)
 
 ---
-
-[← Back to Getting Started](01-getting-started.md) | [Next: Understanding Metrics →](03-understanding-metrics.md)

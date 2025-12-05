@@ -250,5 +250,3 @@ Character Filter: Fox, Falco, Marth
 - **Apply practical strategies:** [Tips & Best Practices](08-tips-and-best-practices.md)
 
 ---
-
-[← Back to Primary Filters](05-primary-filters.md) | [Next: Reading the Data →](07-reading-the-data.md)

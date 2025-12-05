@@ -301,5 +301,3 @@ Since there's no export feature:
 - **Understand core concepts:** [Understanding Metrics](03-understanding-metrics.md)
 
 ---
-
-[← Back to Reading the Data](07-reading-the-data.md) | [Next: Troubleshooting →](09-troubleshooting.md)

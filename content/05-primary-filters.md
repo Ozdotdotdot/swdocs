@@ -129,5 +129,3 @@ This is useful when starting a fresh analysis.
 - **Read your results:** [Reading the Data](07-reading-the-data.md)
 
 ---
-
-[← Back to View Types](04-view-types.md) | [Next: Advanced Filtering →](06-advanced-filtering.md)

@@ -127,5 +127,3 @@ Both views share most advanced filters, but tournament view has additional optio
 - **Dive into advanced options:** [Advanced Filtering](06-advanced-filtering.md)
 
 ---
-
-[← Back to Understanding Metrics](03-understanding-metrics.md) | [Next: Primary Filters →](05-primary-filters.md)
