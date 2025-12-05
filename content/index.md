@@ -6,11 +6,11 @@ aside: false
 toc: false
 ---
 
+<div class="mx-auto w-full max-w-5xl px-6">
+
 # Smash Watch Documentation
 
 **Smash Watch** helps you visualize competitive Super Smash Bros. player performance in your region. See who's overperforming, who's consistent, and who you should watch out for.
-
-<div class="mx-auto w-full max-w-5xl px-6">
 
 
 ## Documentation Index
