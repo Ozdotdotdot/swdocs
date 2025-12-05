@@ -1,8 +1,17 @@
+---
+title: Smash Watch Documentation
+description: Overview and quick links for the Smash Watch docs.
+layout: doc
+aside: false
+toc: false
+---
+
 # Smash Watch Documentation
 
 **Smash Watch** helps you visualize competitive Super Smash Bros. player performance in your region. See who's overperforming, who's consistent, and who you should watch out for.
 
----
+<div class="mx-auto w-full max-w-5xl px-6">
+
 
 ## Documentation Index
 
@@ -34,3 +43,5 @@
 ---
 
 *Documentation for Smash Watch v0.1*
+
+</div>
