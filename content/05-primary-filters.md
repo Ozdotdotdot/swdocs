@@ -1,7 +1,6 @@
-# Primary Filters
-
-Primary filters are the essential controls for defining your dataset. They're always visible in the filter panel.
-
+---
+title: Primary Filters
+description: Primary filters are the essential controls for defining your dataset. They're always visible in the filter panel.
 ---
 
 ## State

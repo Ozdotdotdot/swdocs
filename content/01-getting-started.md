@@ -1,7 +1,6 @@
-# Getting Started
-
-This guide will help you get started with Smash Watch and view your first visualization.
-
+---
+title: Getting Started
+description: This guide will help you get started with Smash Watch and view your first visualization.
 ---
 
 ## Quick Start (5 Steps)

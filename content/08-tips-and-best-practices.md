@@ -1,7 +1,6 @@
-# Tips & Best Practices
-
-Practical strategies for getting the most out of Smash Watch.
-
+---
+title: Tips & Best Practices
+description: Practical strategies for getting the most out of Smash Watch.
 ---
 
 ## Common Use Cases

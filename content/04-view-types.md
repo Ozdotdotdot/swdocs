@@ -1,7 +1,6 @@
-# View Types
-
-Smash Watch offers two view modes optimized for different analysis scenarios: **State View** and **Tournament View**.
-
+---
+title: View Types
+description: Smash Watch offers two view modes optimized for different analysis scenarios: State View and Tournament View.
 ---
 
 ## State View

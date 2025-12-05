@@ -1,7 +1,6 @@
-# Reading the Data
-
-Once you've applied filters and generated a visualization, this guide helps you interpret and use the results.
-
+---
+title: Reading the Data
+description: Once you've applied filters and generated a visualization, this guide helps you interpret and use the results.
 ---
 
 ## The Data Table

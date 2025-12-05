@@ -1,7 +1,6 @@
-# Troubleshooting
-
-Common issues and how to resolve them.
-
+---
+title: Troubleshooting
+description: Common issues and how to resolve them.
 ---
 
 ## "No data found"

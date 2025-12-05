@@ -1,9 +1,6 @@
-# Advanced Filtering
-
-Advanced filters provide fine-grained control over your dataset. Access them by clicking **Advanced** in the filter panel.
-
-<!-- SCREENSHOT: Advanced filter section expanded -->
-
+---
+title: Advanced Filtering
+description: Advanced filters provide fine-grained control over your dataset. Access them by clicking Advanced in the filter panel.
 ---
 
 ## Filter State(s)

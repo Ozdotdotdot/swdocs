@@ -1,7 +1,6 @@
-# Understanding Metrics
-
-Smash Watch uses two primary metrics to evaluate player performance. This guide explains how they're calculated and what they mean.
-
+---
+title: Understanding Metrics
+description: Smash Watch uses two primary metrics to evaluate player performance. This guide explains how they're calculated and what they mean.
 ---
 
 ## Weighted Win Rate

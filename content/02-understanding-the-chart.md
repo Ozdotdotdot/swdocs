@@ -1,7 +1,6 @@
-# Understanding the Chart
-
-The scatter plot is the core visualization in Smash Watch. This guide explains how to read and interpret it.
-
+---
+title: Understanding the Chart
+description: The scatter plot is the core visualization in Smash Watch. This guide explains how to read and interpret it.
 ---
 
 ## What You're Looking At
