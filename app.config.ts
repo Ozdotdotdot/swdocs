@@ -1,4 +1,7 @@
 export default defineAppConfig({
+  header: {
+    title: 'smash.watch'
+  },
   docus: {
     title: 'smash.watch',
     description: 'Documentation for Smash Watch',
