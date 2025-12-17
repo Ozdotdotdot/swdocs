@@ -36,7 +36,7 @@ toc: false
 
 ## Quick Links
 
-- **Dashboard:** [http://localhost:3000/dashboard](http://localhost:3000/dashboard)
+- **Dashboard:** [https://smash.watch/dashboard](https://smash.watch/dashboard)
 - **GitHub:** [github.com/ozdotdotdot/smashDA](https://github.com/ozdotdotdot/smashDA)
 - **Support:** hello@smash.watch
 
