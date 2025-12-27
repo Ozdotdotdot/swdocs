@@ -29,7 +29,7 @@
 
 - **Dashboard:** [http://localhost:3000/dashboard](http://localhost:3000/dashboard)
 - **GitHub:** [github.com/ozdotdotdot/smashDA](https://github.com/ozdotdotdot/smashDA)
-- **Support:** hello@smash.watch
+- **Support:** ozair@smash.watch
 
 ---
 

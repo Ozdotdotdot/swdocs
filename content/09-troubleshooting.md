@@ -249,7 +249,7 @@ This is impossible - no one can have average entrants between 64 and 32.
 
 3. **Report the issue:**
    - Note your exact filter settings
-   - Report to: hello@smash.watch or GitHub issues
+   - Report to: ozair@smash.watch or GitHub issues
 
 ---
 
@@ -362,7 +362,7 @@ Only tournaments with:
 - Browser and OS version
 
 **Contact:**
-- **Email:** hello@smash.watch
+- **Email:** ozair@smash.watch
 - **GitHub Issues:** [github.com/ozdotdotdot/smashDA/issues](https://github.com/ozdotdotdot/smashDA/issues)
 
 ---
