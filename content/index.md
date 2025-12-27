@@ -38,7 +38,7 @@ toc: false
 
 - **Dashboard:** [https://smash.watch/dashboard](https://smash.watch/dashboard)
 - **GitHub:** [github.com/ozdotdotdot/smashDA](https://github.com/ozdotdotdot/smashDA)
-- **Support:** hello@smash.watch
+- **Support:** ozair@smash.watch
 
 ---
 
